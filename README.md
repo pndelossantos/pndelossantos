@@ -1,4 +1,4 @@
-![Hello, I'm Priscilla Banner](https://i.ibb.co/PhQvjt7/Green-Abstract-Watercolor-Lifestyle-Linked-In-Banner.gif)
+![Hello, I'm Priscilla Banner](https://i.ibb.co/S0nSr2N/Green-Abstract-Watercolor-Lifestyle-Linked-In-Banner-1.gif)
 
 <h1 align="center">A former educator turned developer located in Austin, TX!</h1>
 
