@@ -1,4 +1,4 @@
-![Hello, I'm Priscilla Banner](https://i.ibb.co/D5HZcr9/Project-1-1.jpg)
+![Hello, I'm Priscilla Banner](https://youtu.be/hz58Zao8u80)
 
 <h1 align="center">A former educator turned developer located in Austin, TX!</h1>
 
