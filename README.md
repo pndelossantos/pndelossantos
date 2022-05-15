@@ -33,4 +33,7 @@
       <img src="https://img.shields.io/badge/GIT-588157?style=plastic&logo=git&logoColor=white" height=25>
     </p> 
     <h3 align="center">Github Stats</h3>
-    <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pndelossantos&theme=green_nur&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)(https://git.io/streak-stats)</p>
+  <h3 align="center">Code Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pndelossantos&theme=green_nur&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  </p>
