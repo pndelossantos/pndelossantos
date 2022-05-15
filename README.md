@@ -8,11 +8,27 @@
 
 - ⚡ Currently Playing **Far Cry 6 & Mass Effect Legendary Edition**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thepriscillad" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-556F44?&style=plastic&logo=twitter&logoColor=white" alt="thepriscillad" height="25"/></a>
-<a href="https://linkedin.com/in/priscilla-nicole-de-los-santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priscilla-nicole-de-los-santos" height="30" width="40" /></a>
-</p>
+ <h3 align="center">Contact Me</h3>
+  <p align="center">
+    <a href="https://twitter.com/thepriscillad"><img src="https://img.shields.io/badge/Twitter-588157?&style=plastic&logo=twitter&logoColor=white" height=25></a>
+    <a href="https://www.codewars.com/users/pndelossantos"><img src="https://img.shields.io/badge/Codewars-588157?style=plastic&logo=Codewars&logoColor=white" height=25></a>
+    <a href="mailto:priscilla.n.delossantos@outlook.com"><img src="https://img.shields.io/badge/Email-588157?style=plastic&logo=gmail&logoColor=white" height=25></a>
+    <a href="https://www.linkedin.com/in/pndelossantos/"><img src="https://img.shields.io/badge/LinkedIn-588157?style=plastic&logo=linkedin&logoColor=white" height=25></a>
+    <!-- <a href="https://dev.to/#"><img src="https://img.shields.io/badge/Download_Resume-588157?style=plastic&logo=googledrive&logoColor=white" height=25></a> -->
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+
+  <h3 align="center">Technical Skills</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/HTML5-588157?style=plastic&logo=html5&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/CSS3-588157?style=plastic&logo=css3&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/JavaScript-588157?style=plastic&logo=javascript&logoColor=F7DF1E" height=25>
+      <img src="https://img.shields.io/badge/Node.js-588157?style=plastic&logo=nodedotjs&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/React-588157?style=plastic&logo=react&logoColor=61DAFB" height=25>
+      <img src="https://img.shields.io/badge/Express.js-588157?style=plastic&logo=express&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/MongoDB-588157?style=plastic&logo=mongodb&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/Figma-588157?style=plastic&logo=figma&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/Visual_Studio-588157?style=plastic&logo=visual%20studio&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/GIT-588157?style=plastic&logo=git&logoColor=white" height=25>
+    </p>
