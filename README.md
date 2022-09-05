@@ -1,5 +1,5 @@
 <!-- About me -->
-![Hello, I'm Priscilla Banner]<a href="https://ibb.co/swHdRt0"><img src="https://i.ibb.co/PhQvjt7/Green-Abstract-Watercolor-Lifestyle-Linked-In-Banner.gif" alt="Green-Abstract-Watercolor-Lifestyle-Linked-In-Banner" border="0"></a>
+<a href="https://ibb.co/swHdRt0"><img src="https://i.ibb.co/PhQvjt7/Green-Abstract-Watercolor-Lifestyle-Linked-In-Banner.gif" alt="Green-Abstract-Watercolor-Lifestyle-Linked-In-Banner" border="0"></a>
 
 <h1 align="center">A former educator turned developer located in Austin, TX!</h1>
 
